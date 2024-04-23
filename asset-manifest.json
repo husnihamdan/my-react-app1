@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-react-app1/static/css/main.37503261.css",
+    "main.js": "/my-react-app1/static/js/main.f20a4459.js",
+    "static/js/453.740748c3.chunk.js": "/my-react-app1/static/js/453.740748c3.chunk.js",
+    "static/media/cupCake background.jpg": "/my-react-app1/static/media/cupCake background.386aa51f025819f43fba.jpg",
+    "index.html": "/my-react-app1/index.html",
+    "main.37503261.css.map": "/my-react-app1/static/css/main.37503261.css.map",
+    "main.f20a4459.js.map": "/my-react-app1/static/js/main.f20a4459.js.map",
+    "453.740748c3.chunk.js.map": "/my-react-app1/static/js/453.740748c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37503261.css",
+    "static/js/main.f20a4459.js"
+  ]
+}
